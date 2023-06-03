@@ -2,6 +2,7 @@
 
 This code uses RNN, LSTM and GRU to predict periodic time-series data.
 The data has a strong linear trend, so this trend has been removed with "detrend" function. But the trend was saved to be able to restore the data.
+
 Data:
 
 <img width="810" alt="Снимок экрана 2023-06-03 в 10 48 56" src="https://github.com/vladimir-ciric/RNN-LSTM-and-GRU-on-periodic-data/assets/95381758/19e126e0-d4ba-4a96-81ff-fa9e61161dc5">
